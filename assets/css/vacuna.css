@@ -89,6 +89,12 @@ ul{
     width: 50%;
 
 } 
+.bg-sec1{
+    background-image: url(../img/bgSecc1.png);
+    background-repeat: no-repeat;
+    background-position: 100% 45%;
+    background-size: 20%;
+}
 .bg-triangle{
     width: 0;
     height: 0;
